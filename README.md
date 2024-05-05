@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
 <h3 align="center">A passionate individual with a deep interest in Artificial Intelligence, Machine Learning, and Data Science.</h3>
 
-- 🌱 I’m currently learning **LLMS,GENAI**
+- 🌱 I’m currently learning **LLMs,GenAI**
 
 - 📫 How to reach me **sakshi.t0120@gmail.com**
 
