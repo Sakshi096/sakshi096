@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning **LLMs, GenAI, Langchain**
 - 🤝 I’m looking for help with **ML system design**
+- 💬 Ask me about **Mathematics, ML, NLP**
 - 📫 How to reach me **sakshi.t0120@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
