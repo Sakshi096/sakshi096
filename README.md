@@ -2,7 +2,7 @@
 <h3 align="center">A passionate individual with a deep interest in Artificial Intelligence, Machine Learning, and Data Science.</h3>
 
 - 🌱 I’m currently learning **LLMs, GenAI, Langchain**
-
+- 🤝 I’m looking for help with **ML system design**
 - 📫 How to reach me **sakshi.t0120@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
